@@ -18,7 +18,11 @@
 
   npx create-react-app my-react-app
 
-  
+  cd my-react-app
 
+  npm start
+
+# Create Project
+  Runs the app in development mode, its open in https://localhost:300 view in the browser.
   
   
